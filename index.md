@@ -28,25 +28,26 @@ Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 *3) Licensing of the platform as an LMS or customizable software.*
 *Currently: 1,084 employees, 3.5M registered students, and 350K registered teachers (Sep 2025).*
 
-- **Metrics Analyst** (2020 – 2021)
+**Metrics Analyst** (2020 – 2021)
 - Developed and evaluated performance metrics for the Educational Design and Methodology department.
 - Assessed product success metrics for courses created by the department.
   
-- **Course Administrator** (2020 – 2020)
+**Course Administrator** (2020 – 2020)
 - Implemented new educational content into the online platform.
 - Acted as product manager (training role) for a university entrance exam preparation course.
 - Designed and conducted qualitative (custdevs) and quantitative (surveys) research to define product requirements (duration, difficulty, entry level, format).
  
-- **Methodologist** (2019 – 2020)
+**Methodologist** (2019 – 2020)
 - Created course materials, including assignments and assessment tests.
 - Supported the customer service team in resolving student and teacher inquiries related to course content.
 
 ### Lomonosov Moscow State University (2017 – 2018)
-- **Assistant: Department of Work Psychology** 
+**Assistant: Department of Work Psychology** 
 - Assisted in course schedule planning.
 - Recorded and prepared documentation of department meetings (methodological discussions, thesis defenses, etc.).
 
-### Camp Counsellor (2015 – 2019, summer seasons)
+### Summer Camps (2015 – 2019, summer seasons)
+**Camp Counsellor** 
 - Led activities for children aged 9–15 during summer camps.
 - Ensured childrens' safety, engagement, and team-building.
 
