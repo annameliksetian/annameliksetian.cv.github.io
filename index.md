@@ -53,11 +53,11 @@ Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 
 ## Volunteering
 
-**Ad hoc Reviewer – Cognition: International Journal of Cognitive Science (2025 – present)**
+#### Ad hoc Reviewer – Cognition: International Journal of Cognitive Science (2025 – present)**
 *Cognition is a bimonthly peer-reviewed scientific journal covering cognitive science. It is published by Elsevier.*
 - Reviewed submitted articles in psycholinguistics, bilingualism, and language processing.
 
-**Mentor in the field of EdTech, Social Camp (Goethe Institute, Warsaw) (2024 - 2025)**
+#### Mentor in the field of EdTech, Social Camp (Goethe Institute, Warsaw) (2024 - 2025)**
 *Social Camp is a project that aims to support informal education and open dialogue in Belarusian society.*
 - Conducted 10 one-hour mentoring sessions with an early-stage entrepreneur, focusing on educational processes and performance metrics.
 
