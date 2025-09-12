@@ -21,12 +21,12 @@ Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 
 ## Work Experience 
 
-# Foxford – online education platform and LMS system (2019 - 2021)
-*Provides three main products:
-1) Online educational services using distance learning technologies.
-2) Access to educational and informational content via the platform.
-3) Licensing of the platform as an LMS or customizable software.
-Currently: 1,084 employees, 3.5M registered students, and 350K registered teachers (Sep 2025).*
+### Foxford – online education platform and LMS system (2019 - 2021)
+*Provides three main products:*
+*1) Online educational services using distance learning technologies.*
+*2) Access to educational and informational content via the platform.*
+*3) Licensing of the platform as an LMS or customizable software.*
+*Currently: 1,084 employees, 3.5M registered students, and 350K registered teachers (Sep 2025).*
 
 - **Metrics Analyst** (2020 – 2021)
 - Developed and evaluated performance metrics for the Educational Design and Methodology department.
@@ -41,12 +41,12 @@ Currently: 1,084 employees, 3.5M registered students, and 350K registered teache
 - Created course materials, including assignments and assessment tests.
 - Supported the customer service team in resolving student and teacher inquiries related to course content.
 
-# Lomonosov Moscow State University (2017 – 2018)
+### Lomonosov Moscow State University (2017 – 2018)
 - **Assistant: Department of Work Psychology** 
 - Assisted in course schedule planning.
 - Recorded and prepared documentation of department meetings (methodological discussions, thesis defenses, etc.).
 
-# Camp Counsellor (2015 – 2019, summer seasons)
+### Camp Counsellor (2015 – 2019, summer seasons)
 - Led activities for children aged 9–15 during summer camps.
 - Ensured childrens' safety, engagement, and team-building.
 
