@@ -7,7 +7,7 @@ _PhD candidate / Cognitive Neuroscience_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## About  
-I am a doctoral candidate at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focuses on language processing in multilinguals with a particular interest in how they apply language control and domain-general cognitive control. Specifically, I explore whether there is a relationship between the control processes and the level of proximity in a language pair. In my free time, I engage in various EdTech projects.  
+I am a doctoral candidate at Jagiellonian University and a member of the [LangUsta (Psychology of Language and Bilingualism) lab](https://langusta.psychologia.uj.edu.pl) in Kraków, Poland. My research focus is psycholinguistics and cognitive psychology. Outside academia, I engage in various EdTech projects, professional mentoring, and reviewing academic publications. 
 
 ## Education  
 - **PhD candidate, Cognitive Neuroscience**  
@@ -20,16 +20,48 @@ Lomonosov Moscow State University, Moscow, Russia (2017 – 2019)
 Russian State University for the Humanities, Moscow, Russia (2013 – 2017)
 
 ## Work Experience 
-Foxford Online School, Moscow, Russia:
-- **Metrics Analyst** (2020 – 2021)  
-- **Course Administrator** (2020 – 2020)
-- **Methodologist** (2019 – 2020)
 
-Lomonosov Moscow State University, Moscow, Russia:
-- **Assistant: Department of Work Psychology** (2017 – 2018)  
+# Foxford – online education platform and LMS system (2019 - 2021)
+*Provides three main products:
+1) Online educational services using distance learning technologies.
+2) Access to educational and informational content via the platform.
+3) Licensing of the platform as an LMS or customizable software.
+Currently: 1,084 employees, 3.5M registered students, and 350K registered teachers (Sep 2025).*
+
+- **Metrics Analyst** (2020 – 2021)
+- Developed and evaluated performance metrics for the Educational Design and Methodology department.
+- Assessed product success metrics for courses created by the department.
+  
+- **Course Administrator** (2020 – 2020)
+- Implemented new educational content into the online platform.
+- Acted as product manager (training role) for a university entrance exam preparation course.
+- Designed and conducted qualitative (custdevs) and quantitative (surveys) research to define product requirements (duration, difficulty, entry level, format).
+ 
+- **Methodologist** (2019 – 2020)
+- Created course materials, including assignments and assessment tests.
+- Supported the customer service team in resolving student and teacher inquiries related to course content.
+
+# Lomonosov Moscow State University (2017 – 2018)
+- **Assistant: Department of Work Psychology** 
+- Assisted in course schedule planning.
+- Recorded and prepared documentation of department meetings (methodological discussions, thesis defenses, etc.).
+
+# Camp Counsellor (2015 – 2019, summer seasons)
+- Led activities for children aged 9–15 during summer camps.
+- Ensured childrens' safety, engagement, and team-building.
+
+## Volunteering
+
+**Ad hoc Reviewer – Cognition: International Journal of Cognitive Science (2025 – present)**
+*Cognition is a bimonthly peer-reviewed scientific journal covering cognitive science. It is published by Elsevier.*
+- Reviewed submitted articles in psycholinguistics, bilingualism, and language processing.
+
+**Mentor in the field of EdTech, Social Camp (Goethe Institute, Warsaw) (2024 - 2025)**
+*Social Camp is a project that aims to support informal education and open dialogue in Belarusian society.*
+- Conducted 10 one-hour mentoring sessions with an early-stage entrepreneur, focusing on educational processes and performance metrics.
 
 ## Publications  
-*Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (submitted Feb, 2025).
+*Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition (in principle acceptance).
 
 *Meliksetian.* **Formation of grammatical skills in the English language based on the didactic system of Piotr Galperin** (in Russian). Scientific-Methodological Electronic Journal “Concept,” 26, 786–790, 2016, ISSN 2304-120X, [link](https://e-koncept.ru/2016/46958.htm)
 
